@@ -1,0 +1,5 @@
+summary: Core application library for C
+webpage: https://developer.gnome.org/glib
+version: 2.80.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64/releases/download/2023.04.06/glib-tools-2.80.0-macos-11.0-arm64.tar.xz
+bin-sha: 078019c1256dd4b5a2632782e023cbe90344d8d11d25fb8ba1ecf8fb28cc1d28
